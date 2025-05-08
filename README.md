@@ -1,1 +1,1 @@
-Takes a Hack Assembly file and generates Binary output
+Sacns Hack Assembly Instructions from stdin and generates Binary output
